@@ -1,0 +1,25 @@
+table {  
+      border-spacing: 20px;  
+      table-layout: fixed;  
+      width: 40%  
+    }  
+    .blue-class{  
+      background-color: #5DA4CB;  
+      border: 3px solid #668FAB;  
+    }  
+    .orange-class{  
+      background-color: #D18169;  
+      border: 3px solid #AE7065  
+    }  
+    .grey-class{  
+      background-color: #D9D9D9;  
+      border: 3px solid #BCBDBF  
+    }  
+    .white-class{  
+      background-color: #CCE1F1;  
+      border: 3px solid #BFCCDC  
+    }  
+    th, td{  
+      text-align: left;  
+      vertical-align: top;  
+    } 
